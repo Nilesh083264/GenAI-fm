@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-json-logger
+structlog
+pydantic_settings
+
+
+motor
+pydantic
+python-dotenv
